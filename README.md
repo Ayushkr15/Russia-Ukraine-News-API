@@ -15,4 +15,4 @@ This API gives data from whereas news outlet like
 - Abc News
 - Reuters
 
-To explore the API go on Rapid API market place
+To Test The API go to [Rapid API](https://rapidapi.com/ayushkr1322/api/russia-ukraine-war-news)
