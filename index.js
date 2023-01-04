@@ -85,7 +85,7 @@ newspapers.forEach(newspaper => {
 });
 
 app.get("/", (req, res) => {
-  res.json("Welcome to my API");
+  res.json("Welcome to my Russia Ukraine Conflict news API");
 });
 
 app.get("/news", (req, res) => {
